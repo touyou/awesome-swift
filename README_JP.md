@@ -140,18 +140,18 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - Swiftの面白い入門
 * [RxSwift Community](http://community.rxswift.org/) - RxSwiftに関するコミュニティ [`RxSwift`](https://github.com/ReactiveX/RxSwift)
 * [Swift A Day](https://github.com/lindadong/swift-a-day) - Linda Dongによる日刊Swift
-* [Swift Education](https://github.com/swifteducation) - Swiftやアプリ開発教育の
-* [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
-* [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
-* [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
-* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide for Swift.
-* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for Swift.
-* [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code in Swift.
+* [Swift Education](https://github.com/swifteducation) - Swiftやアプリ開発教育の教育者コミュニティによる素材など。
+* [Swift Sandbox Newsletter](http://swiftsandbox.io) - 毎週金曜配信のSwiftのコードや記事へのリンクを載せた無料メールマガジン。
+* [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - 毎週更新されるSwiftのTipsやツールなど。
+* [SwiftDoc](http://swiftdoc.org/) - 自動生成されたSwiftのドキュメント（おそらくコメントからということ？）
+* [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - 中国語でかかれたSwift入門書
+* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - fluxでのSwiftガイド
+* [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - Swiftを学ぶアプリ
 
 ## Boilerplates
 
-* [Swift Off](https://github.com/goprimer/swift-off) - Swift starting point includes Firebase, Crashing Reporting, Signup & more.
-* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Swift starting point for webview app.
+* [Swift Off](https://github.com/goprimer/swift-off) - FirebaseやCrashreport、登録機能などを実装したアプリのテンプレート
+* [Webview Boilerplate](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - WebViewをつけたアプリのテンプレート
 
 ## Editor Support
 *Support for your favorite editors.*
@@ -159,14 +159,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Emacs
 [back to top](#readme)
 
-* [swift-mode](https://github.com/chrisbarrett/swift-mode) - Emacs Swift support, including partial flycheck error support.
+* [swift-mode](https://github.com/chrisbarrett/swift-mode) - EmacsのSwiftサポート
 
 ### Vim
 [back to top](#readme)
 
-* [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
-* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - language pack for vim that includes vim-swift.
-* [vim-swift](https://github.com/toyamarinyon/vim-swift) - adds Swift support to vim. It covers syntax, indenting, and more.
+* [swift-vim](https://github.com/keith/swift.vim) - VimのSwiftサポート
+* [vim-polyglot](https://github.com/sheerun/vim-polyglot) - vim-swiftを含んだSwift用プラグイン
+* [vim-swift](https://github.com/toyamarinyon/vim-swift) - シンタックスやインデントなどを含んだSwiftサポートプラグイン
 
 ## Demo Apps
 *Check out apps on these projects:*
