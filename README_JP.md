@@ -170,28 +170,28 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Demo Apps
 *Check out apps on these projects:*
-* [awesome-osx](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OS X.
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+* [awesome-osx](https://github.com/iCHAIT/awesome-osx) - OS Xのアプリやツールなどの一覧
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - オープンソースのiOSアプリ一覧
 
 ## Dependency Managers
 *Dependency manager software for Swift.*
-* [Carthage](https://github.com/Carthage/Carthage) - a new dependency manager for Swift.
-* [CocoaPods](https://github.com/CocoaPods/CocoaPods) - the most used dependency manager for Objective-C and Swift (Swift supported since version 0.36.0).
-* [swift-package-manager](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
+* [Carthage](https://github.com/Carthage/Carthage) - パッケージマネージャCarthage
+* [CocoaPods](https://github.com/CocoaPods/CocoaPods) - みんな大好きCocoaPods
+* [swift-package-manager](https://github.com/apple/swift-package-manager) - Swiftのパッケージマネージャ、次世代を担うかもしれないやつ。
 
 ## Patterns
 
-* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Swiftで実装されたデザインパターン
 
 ## Misc
 *Miscellaneous Swift related projects*
-* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project based on Swift 2.0.
-* [InteractivePlayground](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
-* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
-* [sbconstants](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a Swift project.
-* [swamp](https://github.com/robb/swamp) - Icon stamping in Swift.
-* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the Swift compiler.
-* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A suite of tools written in Swift to auto-generate Swift code for various assets of your project.
+* [generator-swift-framework](https://github.com/cybertk/generator-swift-framework) - Swift2.0で書かれたXcode framework(?)
+* [InteractivePlayground](https://github.com/dasdom/InteractivePlayground) - Xcode7.3を体験するPlayground
+* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - iOSとOS Xでコードの共有をするためのフレームワーク
+* [sbconstants](https://github.com/paulsamuels/SBConstants) - niftyのstoryboard上からidentifierをつかって定数ファイルをつくるもの(?)
+* [swamp](https://github.com/robb/swamp) - Swiftのアイコン？
+* [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - Swiftのコンパイラーがクラッシュするテストケース
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - SwiftでかかれたSwiftのコードを自動生成するツール
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.*
@@ -199,16 +199,16 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### AI
 *Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme)
 
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
-* [Swift-AI](https://github.com/collinhundley/Swift-AI) - An artificial intelligence and machine learning library in Swift.
+* [BrainCore](https://github.com/aleph7/BrainCore) - iOSとOS X用のニューラルネットワークライブラリ
+* [Swift-AI](https://github.com/collinhundley/Swift-AI) - AIや機械学習のSwiftライブラリ
 
 ### Animation
 *Libs to help with animation* [back to top](#readme)
 
-* [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS.
-* [Animo](https://github.com/eure/Animo) - SpriteKit-like animation builders for CALayers.
-* [Cheetah](https://github.com/suguru/Cheetah) - An animation library on iOS with Swift 2.
-* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Easy to read and write chainable animations in Swift.
+* [Advance](https://github.com/storehouse/Advance) - 強力なSwiftのアニメーションフレームワーク
+* [Animo](https://github.com/eure/Animo) - SpriteKitのようなCALayer上でのアニメーションライブラリ
+* [Cheetah](https://github.com/suguru/Cheetah) - Swift2,iOS用のアニメーションライブラリ
+* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Swiftでのチェインアニメーションをより読み書きしやすくするためのライブラリ
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level.
 * [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - Swift Interpolation framework for creating interactive gesture-driven animations.
